@@ -1,2 +1,2 @@
-# OpenCV ile goruntu isleme
+# Resmi içe aktarma
  Resmi ice aktarma
